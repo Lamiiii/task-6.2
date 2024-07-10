@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(166, 106, 223);
+}
+
+.todo-list{
+    background-color: rgb(39, 39, 156);
+    position: absolute;
+    top: 90px;
+    left: 520px;
+    width: 70px;
+    text-align: center;
+}
+
+.list{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(8, 8, 79);
+    color:white ;
+    font-size: 20px;
+    padding: 10px;
+    margin: 100px;
+    margin-left: 500px;    
+}
+
+.meeting-gym{
+    padding:25px ;
+}
+
+.check-mark{
+    padding: 35px;
+    color: grey;
+    text-decoration: line-through;
+}
+
+.bi-check2{
+    color: aliceblue;
+}
+
+.bi-app{
+    color: aliceblue;
+}
+
